@@ -3,7 +3,7 @@
 <h3 align = "center"><strong>Entrepreneur </h3>
   
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCibeNLHYJ2PPLeZS4siqmlA">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/sn3TZazqHM" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
