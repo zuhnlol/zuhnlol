@@ -35,16 +35,10 @@
 <div>
 <h2  > Join US Now</h2>
 
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/laaw_tutorials)
-<br>  
+
 [<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/AdgnCXD33v)
 <br>  
 [<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/zuhnlol)
 <br>  
 [<img align="top" alt="twitter" src="https://media.discordapp.net/attachments/1069372631305953432/1069376302827712572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c65.png?width=259&height=70"/>](	
-https://lawyt.sellix.io)
-<br>  
-[<img align="top" alt="dev.to" src="https://img.shields.io/badge/twitch-9147ff?logo=twitch&logoColor=white&style=for-the-badge"/>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<br>  
-</div>
-<br>
+https://twitter.com/zuhnlol)
