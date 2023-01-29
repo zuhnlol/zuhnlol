@@ -1,11 +1,11 @@
 ![banner](https://media.discordapp.net/attachments/1055909513779236926/1069364445421252688/1500x500.jpg?width=1200&height=400)
 <h1 align ="center">Hi, I'm zuhn</h1>
-<h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
+<h3 align = "center"><strong>Entrepreneur </h3>
   
 <p align="center">
     <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/sn3TZazqHM" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
