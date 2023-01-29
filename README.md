@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/jgNwkmt.jpg)
+![banner](https://media.discordapp.net/attachments/1055909513779236926/1069364445421252688/1500x500.jpg?width=1200&height=400)
 <h1 align ="center">Hi, I'm LAW - Tutorials</h1>
 <h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
   
