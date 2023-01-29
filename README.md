@@ -15,7 +15,7 @@
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <ul>
-<li>I'm constantly learning, and I like to knowledge to make money</li>
+<li>I'm constantly learning, and I like to use knowledge to make money</li>
 <li>I'm a student</li>
 <li>In my spare time, I'm a csgo trader</li>
 <li>📭 Reach me at my mail zuhn@tutamail.com</li>
@@ -37,9 +37,9 @@
 
 [<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/laaw_tutorials)
 <br>  
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/cPKc5B6Gnv)
+[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/AdgnCXD33v)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LawOff)
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/zuhnlol)
 <br>  
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-6a3ce2?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
 https://lawyt.sellix.io)
